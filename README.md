@@ -1,11 +1,14 @@
-
-Hi there 👋 I'm Software Developer, Jiwon An !  
-_안녕하세요 즐겁게 배우고 성장하는 개발자 안지원입니다 !_
+<h1 align="center">Hi there 🌏 </h1>
+<div align="center">
+  I'm Software Developer, Jiwon An ! <br>
+  <i>안녕하세요 즐겁게 배우고 성장하는 개발자 안지원입니다 ! <br>
+  始めまして ソフトウェア開発者のアン·ジウォンです。</i>
+</div>
 
 <br>
 <br>
 
-### Contact & Blog
+### 📌 Contact & Blog
 <p>
   <a href="mailto:anjiwon319@gmail.com">
     <img src="https://img.shields.io/badge/anjiwon319@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
@@ -64,7 +67,7 @@ _March 2020 - April 2021_
 <br>
 
 **[🐛 꿈을꾸물 대기만성](https://www.instagram.com/p/CQ_EKK0FGzo/?utm_medium=copy_link)**
-> College Students' Union Dream Mentoring Club
+> College Students' Union Dream Mentoring Club  
 > 대학생 연합 진로 멘토링 동아리  
 
 _April 2021 - July 2021_
