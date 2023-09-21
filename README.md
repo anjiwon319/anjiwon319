@@ -1,14 +1,81 @@
-<p>
-  <img src="https://img.shields.io/badge/anjiwon319@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
-  <img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white" href="https://velog.io/@hiamzwon"/>
-</p>
 
-Hi there 👋 I'm Software Developer, Jiwon An !
+Hi there 👋 I'm Software Developer, Jiwon An !  
+_안녕하세요 즐겁게 배우고 성장하는 개발자 안지원입니다 !_
 
 <br>
+<br>
+
+### Contact & Blog
+<p>
+  <a href="mailto:anjiwon319@gmail.com">
+    <img src="https://img.shields.io/badge/anjiwon319@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+  </a>
+  <a href="https://velog.io/@hiamzwon">
+    <img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
+  </a>
+</p>
+
+<br>
+<br>
+
+### ☁️ Experience
+---
+**[🤖 KOSS](https://github.com/kmu-koss)**  
+> Kookmin Univ. Open source Software Society  
+> 국민대 오픈소스 소프트웨어 동아리
+
+_March 2022 - March 2023_
+
+- Served as a member of management team
+- [IoT Study](https://github.com/kmu-koss/22_iot_study)
+  - Team: 중고나라
+  - Tech: MongoDB, Node.js, express, Arduino
+- [CV Study](https://github.com/ShimHyerin/2022-koss-cv)
+  - Team: [HUE(휴)](https://github.com/2022HUE)
+  - Tech: Python, OpenCV, NumPy, Tensorflow Lite, Flutter
+
+<br>
+
+**[🌙 KMU Dream Mentor](https://www.instagram.com/kmu_dreammentor)**  
+> Kookmin Univ. Major Ambassador  
+> 국민대 입학처 소속 전공알림단 드림멘토
+
+_May 2020 - February 2022_
+
+- Served as the 7th Dream Mentor (major in Software)
+- Leader of media team
+- Tech: Arduino, Entry
+- Acticities
+  - Visiting middle and high school, introduce about software major, make a Arduino project, and run it in block coding  
+
+<br>
+
+**[🎨 SID](https://www.instagram.com/sid_commonami/?utm_medium=copy_link)**
+> Social Impact Designers  
+> 발달장애인분들과 함께 아트클래스를 열고 아트클래스에서 나온 작품들을 리터치해 상품으로 만들어 펀딩을 진행하는 연합 동아리
+
+_March 2020 - April 2021_
+
+- Served as a leader of art class team and media team
+- Activities
+  - Hold an art class with people with developmental disabilities, retouch the works from the art class, and make them into products and fund them
+  - Contact organizations about developmental disabilities, plan art class activities, and record and promote art class processes
+
+<br>
+
+**[🐛 꿈을꾸물 대기만성](https://www.instagram.com/p/CQ_EKK0FGzo/?utm_medium=copy_link)**
+> College Students' Union Dream Mentoring Club
+> 대학생 연합 진로 멘토링 동아리  
+
+_April 2021 - July 2021_
+
+- Activities
+  - For 10 weeks, Mentoring about dream for low-income and underprivileged students in the fourth grade of elementary school 
+
 <br>
 
 ### 🛠️ Stacks
+---
 **Front-End & Mobile**
 <p>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
