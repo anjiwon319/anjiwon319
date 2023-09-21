@@ -21,6 +21,45 @@
 <br>
 <br>
 
+### 💡 Projects
+---
+**[🐝 **Beeside**](https://github.com/GYEOTEURO/Byourside)**
+> This app provides customized information and community services for parents of children with Developmental disability and Encephalopathy.  
+> 발달장애와 뇌병변장애 아동의 보호자를 위한 맞춤형 정보 제공 및 커뮤니티 서비스 모바일 앱
+
+_April 2022 -  In progress_
+
+- Team: [곁으로](https://github.com/GYEOTEURO)
+  - Flutter Developer 3
+- Role: PM & Flutter Developer & Backend
+- Tech: Flutter, Firebase, Android, IOS, Github Actions, Chat GPT API, AWS, Python, Figma
+- Prize
+  - [🏆 Barrier-Free App Development Contest](https://www.autoeverapp.kr/bbs/board.php?bo_table=B09&wr_id=49)  
+    : 2022 배리어프리 앱개발 콘테스트 결승 진출(최종 계획 심사팀 선정)
+
+<br>
+
+**[🤖 **HUE**](https://www.notion.so/resume-97dcf0b61c7842ed9d049424d801e741?p=6bbba2b4152c48898cdadbb44f0790f2&pm=c)**
+> Vision processing and robot motion control using intelligent robot.  
+> 지능형 로봇을 이용한 영상처리 및 로봇의 움직임 제어
+
+_May 2022 -  December 2022_
+
+- Team: [HUE(휴)](https://github.com/2022HUE)
+  - Vision Developer 4, Motion Engineer 1
+- Role: Developed in handling the vision of the Danger/Staircase Regional Awareness and Civil Evacuation Mission part
+        _위험/계단 지역 인식 및 시민 대피 미션 파트 비전 처리 담당_
+- Tech: Python, OpenCV, Basic
+- Prize
+  - [🥈 The World Embedded Software Contest 2022 sector of Intelligent Robot](https://www.eswcontest.or.kr/community/notice.php?ptype=view&idx=4381&page=&code=notice)  
+    : 2022년도 제20회 임베디드SW경진대회 지능형 휴머노이드 부문 2등(우수상) 수상
+
+<br>
+
+
+<br>
+<br>
+
 ### ☁️ Experience
 ---
 **[🤖 KOSS](https://github.com/kmu-koss)**  
@@ -75,6 +114,7 @@ _April 2021 - July 2021_
 - Activities
   - For 10 weeks, Mentoring about dream for low-income and underprivileged students in the fourth grade of elementary school 
 
+<br>
 <br>
 
 ### 🛠️ Stacks
