@@ -47,12 +47,43 @@ _May 2022 -  December 2022_
 
 - Team: [HUE(휴)](https://github.com/2022HUE)
   - Vision Developer 4, Motion Engineer 1
-- Role: Developed in handling the vision of the Danger/Staircase Regional Awareness and Civil Evacuation Mission part
+- Role: Developed in handling the vision of the Danger/Staircase Regional Awareness and Civil Evacuation Mission part.  
         _위험/계단 지역 인식 및 시민 대피 미션 파트 비전 처리 담당_
 - Tech: Python, OpenCV, Basic
 - Prize
   - [🥈 The World Embedded Software Contest 2022 sector of Intelligent Robot](https://www.eswcontest.or.kr/community/notice.php?ptype=view&idx=4381&page=&code=notice)  
     : 2022년도 제20회 임베디드SW경진대회 지능형 휴머노이드 부문 2등(우수상) 수상
+
+<br>
+
+**[🚘 **The 4th Kookmin University Autonomous Driving Competition**](https://www.notion.so/resume-97dcf0b61c7842ed9d049424d801e741?p=ac692e61dcfe450395076a7b1be764bb&pm=c)**
+> The 4th Kookmin University Autonomous Driving Competition using [Xycar](http://xytron.co.kr/?page_id=394)   
+> 국민대학교 제 4회 자율주행경진대회
+
+_April 2021 -  November 2021_
+
+- Team: [차국알수](https://github.com/ghyeon0/xycar_ws)
+  - Vision Developer 5
+- Role: Contributed to the development of crosswalk recognition and parking algorithms.   
+  _횡단보도 인식, 주차 알고리즘 개발_
+- Tech: Python, OpenCV, ROS
+- Prize
+  - [🏆 The 4th Kookmin University Autonomous Driving Competition](https://www.youtube.com/watch?v=-4_3veL3QuA)  
+    : 국민대학교 제 4회 자율주행경진대회 결승 진출 및 5등 수상
+
+<br>
+
+**[🥢 **Firstick**](https://github.com/2022HUE/Firstick-APP)**
+> This app is a chopstick education application using computer vision and make it easy for users to see and correct their chopstick posture in real time.   
+> 컴퓨터 비전을 이용한 젓가락질 교육용 모바일 애플리케이션
+
+_July 2022 -  September 2022_
+
+- Team: [HUE(휴)](https://github.com/2022HUE)
+  - Frontend 2, Backend 1, Vision 1
+- Role: Front-end development such as connection chopstick calibration model with frontend(flutter), UI design, and refactoring.   
+        _Front-end: 젓가락질 교정 모델 Flutter 연결 및 UI 설계, 리팩토링 담당_
+- Tech: Flutter, Python, OpenCV, MediaPipe, Tensorflow Lite
 
 <br>
 
